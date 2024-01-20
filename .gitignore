@@ -1,0 +1,19 @@
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore compiled output
+/bin/
+/obj/
+
+# Ignore dependencies
+/packages/
+*.dll
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+/build/
+/dist/
